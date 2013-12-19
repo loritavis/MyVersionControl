@@ -1,0 +1,2 @@
+LIBRARY	verctrl
+EXPORTS mexFunction
