@@ -5,7 +5,6 @@ function checkout(fileNames, varargin)
 %   can be a cell array of files. By default, all files are 
 %   locked upon checkout.
 %
-%this will soon be deprecated
 %   CHECKOUT(FILENAME, OPTION1, VALUE1, OPTION2, VALUE2, ...)
 %
 %   OPTIONS can be:
