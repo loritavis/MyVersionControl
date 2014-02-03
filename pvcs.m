@@ -5,21 +5,6 @@ function pvcs(fileNames, arguments)
 %   FILENAMES must be the full path of the file or a cell array
 %   of files. 
 %
-%   OPTIONS:
-%      action - The version control action to be performed.
-%         checkin
-%         checkout
-%	
-%      lock - Locks the file.
-%         on
-%         off
-%
-%      view - Displays the file in the MATLAB command window, but
-%      does not check it out.
-%         on
-%         off
-%
-%      configfile - Configuration file to the appropriate PVCS project.
 %
 %      revision - Performs the action on the specified revision. 
 %
