@@ -87,7 +87,7 @@ function varargout = verctrl(varargin)
 %       verctrl('properties','D:\file1.ext',0)
 %   
 %   See also CHECKIN, CHECKOUT, UNDOCHECKOUT, CMOPTS 
-   
+% making changes   
 %   Copyright 1998-2004 The MathWorks, Inc.
 %
 
