@@ -1,5 +1,5 @@
 function varargout = verctrl(varargin)                                          
-%VERCTRL Version control operations on Windows platforms
+%VERCTRL Version control operations on Windows platforms 2
 %   List = VERCTRL('all_systems') returns a list of all of the version control 
 %   systems installed in the current machine.
 %  
