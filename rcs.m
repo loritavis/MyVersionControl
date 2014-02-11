@@ -14,6 +14,7 @@ function rcs(fileNames, arguments)
 %      lock - Locks the file.
 %         on
 %         off
+%change one
 %
 %      revision - Performs the action on the specified revision. 
 %
