@@ -1,6 +1,6 @@
 /* 
  * $Author: Senthil Vaithilingam
- *
+ * **
  * CONFIDENTIAL AND CONTAINING PROPRIETARY TRADE SECRETS
  * Copyright 2001-2002 The MathWorks, Inc. 
 
