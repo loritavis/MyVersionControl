@@ -2,7 +2,7 @@ function pvcs(fileNames, arguments)
 %PVCS   Version control actions using ChangeMan or PVCS 
 %   PVCS(FILENAMES, ARGUMENTS) Performs the requested action
 %   with ARGUMENTS options (name/value pairs) as specified below.
-%   FILENAMES must be the full path of the file or a cell array
+%   FILENAMES mustbe be the full path of the file or a cell array
 %   of files. 
 %
 %   OPTIONS:

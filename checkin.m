@@ -6,7 +6,7 @@ function checkin(fileNames, varargin)
 %   of the file. FILENAME can also be a cell array of files. Save 
 %   the file before checking it in.
 %   CHECKIN(FILENAME, 'COMMENTS', COMMENT_TEXT, OPTION1, VALUE1, ...
-%      OPTION2, VALUE2)
+%      OPTION2, VALUE2 )
 %
 %   OPTIONS can be:
 %      lock - Locks the file upon checkin so the file remains checked out.

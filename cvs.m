@@ -4,7 +4,7 @@ function cvs(fileNames, arguments)
 %   with ARGUMENTS options (name/value pairs) as specified below.
 %   FILENAMES must be the full path of the file or a cell array
 %   of files. 
-%   Date: November 19, 2013
+%   Date: November 19, 2013 ,
 %   OPTIONS:
 %      action - The version control action to be performed.
 %         checkin

@@ -1,1 +1,1 @@
-% foo3 function
+% foo3 function foo2
