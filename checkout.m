@@ -1,5 +1,5 @@
 function checkout(fileNames, varargin)
-%CHECKOUT Check a file or files out of the revision control system.
+%CHECKOUT Check a teo file or files out of the revision control system.
 %   CHECKOUT(FILENAME) Checks FILENAME out of the revision control
 %   system.  FILENAME must be the full path of the file. FILENAME
 %   can be a cell array of files. By default, all files are 
