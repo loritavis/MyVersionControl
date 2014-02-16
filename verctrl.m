@@ -4,7 +4,7 @@ function varargout = verctrl(varargin)
 %   systems   installed in the current machine.
 %  
 %   fileChange = VERCTRL(COMMAND,FILENAMES,HANDLE) performs the version control
-%   operation specified by COMMAND on FILENAMES, which is a cell array of files.
+%    specified by COMMAND on FILENAMES, which is a cell array of files.
 %   HANDLE is a window handle; use a value of 0.  
 %   These commands return a logical 1 to the workspace if the file has
 %   changed on disk or a logical 0 to the workspace if the file has not
