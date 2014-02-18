@@ -4,7 +4,7 @@ function pvcs(fileNames, arguments)
 %   with ARGUMENTS options (name/value pairs) as specified below.
 %   FILENAMES mustbe be the full path of the file or a cell array
 %   of files. 
-%
+% changin file here
 %   OPTIONS:
 %      action - The version control action to be performed.
 %         checkin
