@@ -109,7 +109,7 @@ case 'checkout'
 case 'undocheckout'
 	command      = ['vcs -Q -U'];
 end
-
+%
 [status, returnMessage] = dos([command ' ' files]);                     % Executing the command
 
 if (~isempty(returnMessage))                                            % With quit option PVCS does not provide any output.
