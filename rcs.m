@@ -5,7 +5,7 @@ function rcs(fileNames, arguments)
 %   FILENAMES    must be the full path of the file or a cell array
 %   of files. 
 %
-%   OPTIONS:
+%   OPTIONS:b
 %      action - The version control action to be performed.
 %         checkin
 %         checkout
