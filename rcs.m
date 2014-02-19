@@ -2,7 +2,7 @@ function rcs(fileNames, arguments)
 %RCS    Version control actions using RCS.
 %   RCS(FILENAMES, ARGUMENTS) Perfor ms the requested action 
 %   with ARGUMENTS options (name/value pairs) as specified below.
-%   FILENAMES must be the full path of the file or a cell array
+%   FILENAMES    must be the full path of the file or a cell array
 %   of files. 
 %
 %   OPTIONS:
