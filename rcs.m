@@ -4,7 +4,7 @@ function rcs(fileNames, arguments)
 %   with ARGUMENTS options (name/value pairs) as specified below.
 %   FILENAMES    must be the full path of the file or a cell array
 %   of files. 
-%
+% submitted this to check revert
 %   OPTIONS:b
 %      action - The version control action to be performed.
 %         checkin
