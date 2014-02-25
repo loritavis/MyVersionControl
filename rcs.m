@@ -1,8 +1,14 @@
 function rcs(fileNames, arguments)
 %RCS    Version control actions using RCS.
+<<<<<<< HEAD
 %   RCS(FILENAMES, ARGUMENTS) Perfor ms the requested action 
 %   with ARGUMENTS options (name/value pairs) as specified below.
 %   FILENAMES    must be the full path of the file or a cell array
+=======
+%   RCS(FILENAMES, ARGUMENTS) Performs the requested action 
+%     with ARGUMENTS options (name/value pairs) as specified below.
+%   FILENAMES must be the full path of the file or a cell array
+>>>>>>> refs/remotes/origin/testingbranching
 %   of files. 
 % submitted this to check revert
 %   OPTIONS:b
@@ -14,6 +20,7 @@ function rcs(fileNames, arguments)
 %      lock - Locks the file.
 %         on
 %         off
+%change one
 %
 %      revision - Performs the action on the specified revision. 
 %

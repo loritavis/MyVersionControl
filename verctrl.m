@@ -1,10 +1,10 @@
 function varargout = verctrl(varargin)                                          
 %VERCTRL Version control operations on Windows platforms
 %   List = VERCTRL('all_systems') returns a list of all of the version control 
-%   systems   installed in the current machine.
+%   systems installed in the current machine.
 %  
 %   fileChange = VERCTRL(COMMAND,FILENAMES,HANDLE) performs the version control
-%    specified by COMMAND on FILENAMES, which is a cell array of files.
+%   operation specified by COMMAND on FILENAMES, which is a cell array of files.
 %   HANDLE is a window handle; use a value of 0.  
 %   These commands return a logical 1 to the workspace if the file has
 %   changed on disk or a logical 0 to the workspace if the file has not

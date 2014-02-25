@@ -6,6 +6,7 @@ function cvs(fileNames, arguments)
 %   of files. 
 %   Date: November 19, 2013 ,
 %   OPTIONS:
+
 %      action - The version control action to be performed.
 %         checkin
 %         checkout
@@ -23,7 +24,6 @@ function cvs(fileNames, arguments)
 %    SOURCESAFE, CLEARCASE, CVS, and PVCS.
 %
 
-%   Copyright 1998-2011 The MathWorks, Inc.
 
 action     = arguments(find(strcmp(arguments, 'action')), 2);      % Mandatory argument
 lock       = arguments(find(strcmp(arguments, 'lock')), 2);        % Assumed as OFF for checkin and ON for checkout

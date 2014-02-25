@@ -1,14 +1,18 @@
 /* 
  * $Author: Senthil Vaithilingam
- *
+ * **
  * CONFIDENTIAL AND CONTAINING PROPRIETARY TRADE SECRETS
  * Copyright 2001-2002 The MathWorks, Inc. 
+<<<<<<< HEAD
  * The source code contained in this listing contains proprietary and
  * confidentia   l trade secrets of The MathWorks, Inc.  The use, modification,
  * or development of derivative work based on the code or ideas obtained
  * from the code is prohibited without the express written permission of The
  * MathWorks, Inc. The disclosure of this code to any party not authorized
  * by The MathWorks, Inc. is strictly forbidden.
+=======
+
+>>>>>>> refs/remotes/origin/testingbranching
  * CONFIDENTIAL AND CONTAINING PROPRIETARY TRADE SECRETS
  */
 
